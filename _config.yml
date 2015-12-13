@@ -2,9 +2,8 @@
 title: Data Science | Resource
 email: ziaulhaq@mhs.dinus.ac.id
 description: > # baru belajar data science, sedikit menulis disini, berbagi kalau memang bisa dibaca ya, hehehe
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Project ini dibangun dengan Jekyll dan Github Page
+  Seluruh isi didalam site ini merupakan refleksi pribadi mengenai DataScience dari buku Doing Data Science karya Rachel Schutt dan Cathy ONeil
 baseurl: "/datascience"
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: zhq41
